@@ -1,0 +1,20 @@
+[
+  {
+    "code": "A00",
+    "name": "Cholera",
+    "description": "Infectious disease caused by Vibrio cholerae, characterized by watery diarrhea and rapid dehydration.",
+    "category": "A00-B99 Infectious, parasitic diseases"
+  },
+  {
+    "code": "A01",
+    "name": "Typhoid fever",
+    "description": "Infection caused by Salmonella typhi, transmitted via contaminated food/water, causes fever and abdominal pain.",
+    "category": "A00-B99 Infectious, parasitic diseases"
+  },
+  {
+    "code": "R50",
+    "name": "Fever, not elsewhere classified",
+    "description": "Elevated body temperature without clear cause, may be associated with infection or inflammation.",
+    "category": "R00-R99 Symptoms, signs, and abnormal clinical and laboratory findings"
+  }
+]
