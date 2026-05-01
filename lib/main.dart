@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider<Cid10Provider>.value(
       value: provider,
       child: MaterialApp(
-        title: 'CID-10 Browser',
+        title: 'CID-10 Sukua',
         theme: ThemeData(
           primarySwatch: Colors.green,
           colorScheme: ColorScheme.fromSeed(

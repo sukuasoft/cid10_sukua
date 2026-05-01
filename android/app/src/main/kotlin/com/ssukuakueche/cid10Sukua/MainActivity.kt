@@ -1,4 +1,4 @@
-package com.example.cid10_sukua
+package com.ssukuakueche.cid10Sukua
 
 import io.flutter.embedding.android.FlutterActivity
 

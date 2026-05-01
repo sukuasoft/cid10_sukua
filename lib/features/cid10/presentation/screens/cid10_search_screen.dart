@@ -35,7 +35,7 @@ class _Cid10SearchScreenState extends State<Cid10SearchScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('CID-10 Browser'),
+        title: const Text('CID-10 Sukua'),
         centerTitle: true,
         elevation: 0,
         backgroundColor: colorScheme.primary,
